@@ -1,3 +1,4 @@
 Hello from file1
-adding new feature 1
-a bit more of feature 1
+adding new feature 2
+a bit more of feature 2
+more of second feature
