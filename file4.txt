@@ -1,2 +1,3 @@
 Hello from file4
 And some changes
+More changes
