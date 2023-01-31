@@ -3,4 +3,8 @@ adding new feature 3
 33333
 adding new feature 2
 a bit more of feature 2
-more of second feature
+
+adding new feature 2
+a bit more of feature 2
+adding new feature 2
+a bit more of feature 2
