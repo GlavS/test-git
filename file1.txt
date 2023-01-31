@@ -4,3 +4,4 @@ adding new feature 3
 adding new feature 2
 a bit more of feature 2
 more of second feature
+Changes to feature 2
